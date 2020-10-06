@@ -7,6 +7,7 @@
 3. [The Sin of Unbelief](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0003.md)
 4. [The Personality of the Holy Spirit](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0004.md)
 5. [The Comforter](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0005.md)
+6. [Sweet Comfort for Feeble Saints](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0006.md)
 
 ## Licensing
 
