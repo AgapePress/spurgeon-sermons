@@ -8,7 +8,8 @@
 4 [The Personality of the Holy Spirit](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0004.md)<br>
 5 [The Comforter](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0005.md)<br>
 6 [Sweet Comfort for Feeble Saints](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0006.md)<br>
-7-8 [Christ Crucified](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0007.md)
+7-8 [Christ Crucified](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0007.md)<br>
+9 [Spiritual Liberty](https://github.com/AgapePress/spurgeon-sermons/blob/master/eng/volume-01/sermon-0009.md)
 
 ## Licensing
 
